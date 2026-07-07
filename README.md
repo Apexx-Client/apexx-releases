@@ -9,3 +9,5 @@ Each `ApexxClient-<version>.enc` is the client jar encrypted with AES-256-GCM
 authenticated paid users, who decrypt it client-side.
 
 Do not commit plaintext jars here.
+
+| 1.0beta | `ApexxClient-1.0beta.enc` | `be732481406ef1eb7c4f772346ac63381265d332448bf3660fb9cfa29360258b` |
